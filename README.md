@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a bunch of random projects! Please nothing too advanced though.
 - 📫 You can reach me via text. 419-956-7357
 - 😄 Pronouns: (this is a joke) Platypus/Platypi
-- ⚡ Fun fact: I have autism.
+- ⚡ Fun fact: I was forced to remove the fun fact.
 
 <!---
 WilliamWiseman/WilliamWiseman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
