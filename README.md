@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding javascript. I make a bunch of random projects, which help me learn.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on a bunch of random projects! Please nothing too advanced though.
-- 📫 You can reach me via text. 419-956-7357
 - 😄 Pronouns: (this is a joke) Platypus/Platypi
 
 <!---
